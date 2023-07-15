@@ -1,6 +1,7 @@
 <!DocType html>
 <html lang = "en"
 <head>
+<link rel="stylesheet" href="CSS-Welcome.css">
 <title> My Three Things Project </title>
 <meta charset ="UTF-8">    
 </head>
