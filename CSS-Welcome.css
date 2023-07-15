@@ -7,6 +7,6 @@ h2{text-align:center;}
 nav{text-align: center; color:black; background-color:white;width:800px; margin-left:350px; margin-right:auto}
 footer{text-align:center;}
 img{border-style:dotted;margin-left:170px;}
-a:link{ color: #000000;}
-a:visited{color:#FFB6C1;}
-  a:hover(color:#FF69B4;}
+a:link{ color:black;}
+a:visited{color:hotpink;}
+  a:hover(color:lightpink;}
