@@ -1,14 +1,14 @@
 <!DocType html>
 <html lang = "en"
 <head>
-<link rel="stylesheet" href="CSS-Welcome.css">
 <title> My Three Things Project </title>
+<link rel="stylesheet" href="CSS-Welcome.css">
 <meta charset ="UTF-8">      
 </head>
 <body>
   <div class ="div2"> <header>
     <h1> Welcome to my Three Things Project </h1> </header></div>
-  <nav> <b> Home &nbsp; Nails &nbsp; Nature &nbsp; Music </nav>
+  <nav> <b><a href ="Welcome.html"> Home &nbsp;</a><a href ="Nails.html"> Nails &nbsp;</a> <a href ="Nature.html"> Nature &nbsp;</a> <a href ="Music.html"> Music &nbsp;</a> </nav>
 <div class="div1"> <main>
   <h2>  My Name is Valerie</h2>
   <p>This project is focused on bringing together all of the wonderful skills I learned during my time in Professor Noone's CSIT 121 class. <br>
