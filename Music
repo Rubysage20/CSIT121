@@ -8,7 +8,7 @@
 <body>
   <div class ="div2"> <header>
     <h1> Welcome to my Three Things Project </h1> </header></div>
-  <nav> <b> Home &nbsp; Nails &nbsp; Nature &nbsp; Music </nav>
+  <nav> <b><a href ="Welcome.html"> Home &nbsp;</a><a href ="Nails.html"> Nails &nbsp;</a> <a href ="Nature.html"> Nature &nbsp;</a> <a href ="Music.html"> Music &nbsp;</a> </nav>
 <div class="div1"> <main>
   <h2>Music</h2>
  <p>I love music, all different types of genres. I have studied the different Hz and rest to musical therapy</p>
